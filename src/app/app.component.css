@@ -1,0 +1,19 @@
+.navbar-light .navbar-toggler{
+    color: aliceblue !important;
+}
+.nav-link{
+    color: aliceblue !important;
+    text-decoration: dotted !important;
+}
+.navbar-brand{
+    color: aliceblue !important;
+}
+.d-flex{
+    position: relative;
+    left: 350px;
+    top: 8px;
+
+}
+.btn-outline-success{
+    color: aliceblue !important;
+}

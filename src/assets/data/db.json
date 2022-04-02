@@ -1,0 +1,48 @@
+{
+    "products": [
+      { "id": 1, 
+        "name": "Shirt" ,
+        "category_id":5,
+        "descriptions":"description here",
+        "price":300,
+        "is_available":true,
+        "rating":8,
+        "review":150,
+        "vendor_name":"abc shop",
+        "waranty":1
+        
+    },
+    { "id": 2, 
+        "name": "Shirt2" ,
+        "category_id":1,
+        "descriptions":"description here",
+        "price":300,
+        "is_available":true,
+        "rating":4,
+        "review":150,
+        "vendor_name":"abc shop",
+        "waranty":1
+        
+    },
+    { "id": 3, 
+        "name": "Shirt3" ,
+        "category_id":5,
+        "descriptions":"description here",
+        "price":300,
+        "is_available":true,
+        "rating":2,
+        "review":150,
+        "vendor_name":"abc shop",
+        "waranty":1
+        
+    }
+      
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
